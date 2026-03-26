@@ -3,6 +3,7 @@
 #Student Details
 
 * Name: Ronit Mishra
+* Registration Number- 24BSA10129
 * Course: Open Source Software (OSS NGMC)
 * Software Chosen: Python
 
@@ -19,23 +20,23 @@ Along with the theoretical part, this project also includes five shell scripts t
 
 1. Script1.sh
 
-This script displays basic information about the system such as kernel version, current user, uptime, date and Linux distribution. It works like a simple system introduction screen.
+This script displays information such as the kernel version, the currently logged-in user, the time the system has been running, the date, and the Linux distribution. The script serves as an introduction for the operating system. 
 
 2. Script2.sh
 
-This script checks whether Python is installed on the system. If it is installed, it shows basic details like version and package information.
+This script checks for the presence of the Python program. If the program is found, it displays information regarding the program. 
 
 3. Script3.sh
 
-This script looks at important system directories and reports their permissions and disk usage. It helps in understanding how files and access control work in Linux.
+This script checks the permissions and the disk space used for the most important directories on the system. The script is helpful in understanding the concept of files and permissions in the Linux operating system. 
 
 4. Script4.sh
 
-This script reads a log file and counts how many times a specific keyword (like "error") appears. It also shows the last few matching lines for quick analysis.
+This script reads the log file and displays the number of times the keyword, such as the word 'error,' has occurred. It also displays the last few lines where the keyword occurred. 
 
 5. Script5.sh
 
-This script asks the user a few questions and generates a short open-source philosophy statement based on the answers. It then saves the output to a text file.
+This script asks the user some questions, creates a statement on open-source philosophy based on the responses, and stores the statement in a text file.
 
 
 
@@ -61,7 +62,7 @@ chmod +x *.sh
 
 # Requirements
 
-* A Linux environment (Ubuntu recommended, including WSL)
+* A Linux environment 
 * Python 3 installed on the system
 
 
@@ -70,6 +71,3 @@ chmod +x *.sh
 Ubuntu (WSL)
 
 
-# Final Note
-
-All scripts are written in Bash and tested on a Linux environment. The main goal of this project is to combine conceptual understanding of open source with practical experience using Linux commands and scripting.
