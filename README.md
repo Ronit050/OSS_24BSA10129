@@ -20,7 +20,7 @@ Along with the theoretical part, this project also includes five shell scripts t
 
 1. Script1.sh
 
-This script displays information such as the kernel version, the currently logged-in user, the time the system has been running, the date, and the Linux distribution. The script serves as an introduction for the operating system. 
+This script displays information such as the kernel version, the currently logged-in user, the time the system has been running, the date and the Linux distribution. The script serves as an introduction for the operating system. 
 
 2. Script2.sh
 
@@ -36,7 +36,7 @@ This script reads the log file and displays the number of times the keyword, suc
 
 5. Script5.sh
 
-This script asks the user some questions, creates a statement on open-source philosophy based on the responses, and stores the statement in a text file.
+This script asks the user some questions, creates a statement on open-source philosophy based on the responses and stores the statement in a text file.
 
 
 
