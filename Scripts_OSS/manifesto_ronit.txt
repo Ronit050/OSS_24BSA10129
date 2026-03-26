@@ -1,0 +1,2 @@
+On 26 March 2026, I believe open source tools like python represent independence.
+I want to build an open-source AI assistant and share it freely with the world.
