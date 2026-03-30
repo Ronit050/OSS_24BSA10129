@@ -5,12 +5,16 @@ Name: Ronit Mishra
 Registration Number- 24BSA10129
 Course: Open Source Software (OSS NGMC)
 Software Chosen: Python
+
+
 Project Overview
 This project focuses on understanding Python as an open-source software. Instead of just looking at what Python does, the aim is to explore why it was created, how it is shared openly and how it is used in real systems.
 
 Along with the theoretical part, this project also includes five shell scripts that demonstrate basic Linux skills and show how open-source tools can be used practically.
 
 Scripts Included
+
+
 Script1.sh
 This script shows information such as the kernel version, the currently logged-in user, time the system has been running, the date and the Linux distribution. The script serve as a introduction for the operating system.
 
@@ -39,6 +43,8 @@ Step 3: Run the scripts
 Requirements
 A Linux environment
 Python 3 installed on the system
+
+
 Tested On
 Ubuntu (WSL)
 
